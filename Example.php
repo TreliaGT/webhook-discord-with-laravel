@@ -8,7 +8,7 @@
         
         Http::post('webhook_key', [
     // Message
-    "content" => "DDOS sent a new caller message",
+    "content" => " sent a new caller message",
 
 
     // Embeds Array
